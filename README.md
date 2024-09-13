@@ -2,7 +2,7 @@
 methods to scrape wechat, without being banned, blocked or otherwise caught
 
 
-%Prerequisites:%
+Prerequisites:
 
 Download [mitmproxy](https://docs.mitmproxy.org/stable/)
 
